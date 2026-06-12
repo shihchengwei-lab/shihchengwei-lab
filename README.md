@@ -17,7 +17,6 @@ These repos come from real Claude Code / AI-agent workflows: session handoff, co
 ### Companion / transparency work
 - `cinder-capture` — captures Claude Code Cinder bubble text and reinjects it into context.
 - `Buddy_similar` — rebuilds a Buddy-like second-opinion companion with explicit data-flow disclosure.
-- `BonziClaude` — historical reverse-engineering reference for the defunct buddy_react endpoint.
 - `HITCON_2026_talk_raw` — raw materials for the Buddy / Cinder transparency forensics talk.
 
 ### Architecture / research prototypes
