@@ -9,6 +9,7 @@ These repos come from real Claude Code / AI-agent workflows: session handoff, co
 ### Agent session control
 - `claude-code-session-kit` — hooks for context alerts, session startup, and handoff validation.
 - `coding-guidelines` — UserPromptSubmit hook that injects minimal coding rules every turn.
+- `kiss-my-diff` — tiny AGENT.md harness for smaller, more local coding-agent patches.
 - `slime-coding` — slime-mould discipline that edits only the minimal corridor where the requirement and the repo meet, enforced via Claude Code hooks.
 
 ### Audit and review
