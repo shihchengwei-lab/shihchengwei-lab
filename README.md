@@ -7,10 +7,10 @@ These repos come from real Claude Code / AI-agent workflows: session handoff, co
 ## Main map
 
 ### Agent session control
+- `kiss-my-diff` — classic software-engineering philosophy for smaller, more local coding-agent patches.
+- `slime-coding` — slime-mould-inspired system simulation for editing only the minimal corridor where the requirement and the repo meet.
+- `coding-guidelines` — Andrej Karpathy-inspired empirical-science loop for injecting minimal coding rules every turn.
 - `claude-code-session-kit` — hooks for context alerts, session startup, and handoff validation.
-- `coding-guidelines` — UserPromptSubmit hook that injects minimal coding rules every turn.
-- `kiss-my-diff` — tiny AGENT.md harness for smaller, more local coding-agent patches.
-- `slime-coding` — slime-mould discipline that edits only the minimal corridor where the requirement and the repo meet, enforced via Claude Code hooks.
 
 ### Audit and review
 - `cold-eyes-reviewer` — diff-centered second-pass review gate for Claude Code.
