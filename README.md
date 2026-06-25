@@ -2,7 +2,7 @@
 
 Side projects for making AI coding agents easier to inspect, resume, and control.
 
-These repos come from real Claude Code / AI-agent workflows: session handoff, context loss, second-opinion review, agent run recording, companion transparency, and authority separation.
+Some of these came from friction — a session that lost its context on handoff, a diff that sprawled, a review that got rubber-stamped. Others came from a spark: I'd see some mechanism and want to push on it — bidirectional navigation sparked `slime-coding`, a hook injection point became somewhere to inject coding rules (`coding-guidelines`). Most of it is side-project work, often vibe-coded in one sitting. Either way the move is the same: keep it small, and point it at making what an AI agent does easier to see and steer.
 
 ## Main map
 
