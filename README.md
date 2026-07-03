@@ -23,5 +23,3 @@ Keep the human in control.
 ## Notes
 
 Some repositories are tools. Some are prototypes or research notes. The main thread is AI-agent workflow design: small boundaries, visible handoff, and less cleanup work for humans.
-
-Archived: [`cold-eyes-reviewer`](https://github.com/shihchengwei-lab/cold-eyes-reviewer) — a second-pass review gate for Claude Code, retired after real-usage data showed its latency tax outweighed its catch rate. Its README carries the full postmortem.
