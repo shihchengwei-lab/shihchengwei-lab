@@ -1,25 +1,40 @@
 # shihchengwei-lab
 
-Small tools for making AI coding agents easier to constrain, inspect, and review.
+I make games with coding agents.
 
-I focus on one problem: AI agents can produce useful code, but their work is often hard to bound, audit, or hand off. These projects turn that friction into small gates, recorders, and review aids.
+I am a vibe coder, not a software engineer. I do not usually know whether a
+diff is good by reading it line by line. I know from the outside: the game
+moves, the tool runs, the benchmark looks sane, or the thing feels less broken
+than it did before.
 
-## Start here
+That is a strange place to build developer tools from. It is also the point. I
+trust AI unconditionally. I distrust its process and output just as hard. The
+thing can exist and still need to be smaller, clearer, and better.
 
-| Repo | What it is for |
+## Start Here
+
+| Repo | What It Is For |
 |---|---|
-| [`slime-coding`](https://github.com/shihchengwei-lab/slime-coding) | Keep an agent inside the smallest necessary edit corridor. |
-| [`kiss-my-diff`](https://github.com/shihchengwei-lab/kiss-my-diff) | Give coding agents a tiny KISS rule file for smaller, simpler diffs. |
-| [`agentcam`](https://github.com/shihchengwei-lab/agentcam) | Record AI coding runs: changed files, risk flags, and rollback notes. |
-| [`corridor-ci`](https://github.com/shihchengwei-lab/corridor-ci) | Make PRs say why they exist, where they meant to stop, and where review should start. |
+| [`coding-agent-guardrails`](https://github.com/shihchengwei-lab/coding-agent-guardrails) | Monorepo for my agent-side guardrails: keep edits small, record what happened, and make PR handoffs visible. |
 
-## The pattern
+## Current Shape
 
-Constrain before editing.  
-Record what changed.  
-Review against evidence.  
-Keep the human in control.
+Most of this is side-project work around games. The guardrails are side
+projects too: tools I built because my own workflow is too loose without them.
+Some repos are usable tools. Some are experiments. Some are proof that I
+pressed the gas first and went looking for brakes afterward.
+
+The pattern I keep coming back to:
+
+1. Build the thing with the agent.
+2. Keep the change small enough to inspect from the outside.
+3. Record what happened.
+4. Make the handoff visible.
+5. Ask whether the result can be better.
 
 ## Notes
 
-Some repositories are tools. Some are prototypes or research notes. The main thread is AI-agent workflow design: small boundaries, visible handoff, and less cleanup work for humans.
+The work here is uneven on purpose. I am testing what helps when a coding agent
+can produce more code than I can fully understand. The answer, so far, is not
+blind trust or pretending to be an engineer. It is smaller loops, better
+records, and one more pass.
