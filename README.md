@@ -8,8 +8,8 @@ moves, the tool runs, the benchmark looks sane, or the thing feels less broken
 than it did before.
 
 That is a strange place to build developer tools from. It is also the point. I
-trust AI unconditionally. I distrust its process and output just as hard. The
-thing can exist and still need to be smaller, clearer, and better.
+leave the coding to AI, then question everything it gives me. The thing can
+exist and still need to be smaller, clearer, and better.
 
 ## Start Here
 
