@@ -13,7 +13,7 @@ The thing can exist and still need to be smaller, clearer, and better.
 | Repo | What It Is For |
 |---|---|
 | [Masters’ Nudge](https://github.com/shihchengwei-lab/masters-nudge) | Short structural feedback while a coding agent works, with published comparisons of results and costs. |
-| [Masters’ Lenses](https://github.com/shihchengwei-lab/masters-lenses) | One manually invoked engineering review skill for Codex, tracing causes and proposing concrete changes from task requirements and evidence. |
+| [arc-9](https://github.com/shihchengwei-lab/arc-9) | One manually invoked engineering review skill for Codex, tracing causes and proposing concrete changes from task requirements and evidence. |
 | [Coding Agent Guardrails](https://github.com/shihchengwei-lab/coding-agent-guardrails) | Scope limits, trusted checks, and records of the final state for coding-agent work. |
 
 ## Current Shape
