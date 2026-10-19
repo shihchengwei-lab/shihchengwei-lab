@@ -2,9 +2,13 @@
 
 I make games with coding agents.
 
-I am a vibe coder without a software engineering background. AI writes the code.
+I am a vibe coder. I rely on AI for the programming.
 I set the goals, question its choices, and ask for evidence that the result
 does what I asked.
+
+I draw on basic ideas from industrial safety: designing hazards out,
+interlocks, and pointing and calling. They shape the questions I ask
+when working with coding agents.
 
 The thing can exist and still need to be smaller, clearer, and better.
 
@@ -34,6 +38,9 @@ The questions I keep coming back to:
 
 1. What is the goal, and what is within scope?
 2. What is the smallest change that meets that goal?
-3. Does it actually run and behave as intended?
-4. What improved, what got more complicated, and what did it cost?
-5. What should we record so we can check the result and pick up the work later?
+3. Which mistakes can we prevent through the design?
+4. What conditions must be met before an action is allowed?
+5. What needs to be checked and called out before moving on?
+6. Does it actually run and behave as intended?
+7. What improved, what got more complicated, and what did it cost?
+8. What should we record so we can check the result and pick up the work later?
