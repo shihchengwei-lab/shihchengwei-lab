@@ -36,11 +36,6 @@ and whether an improvement is worth what it costs.
 
 The questions I keep coming back to:
 
-1. What is the goal, and what is within scope?
-2. What is the smallest change that meets that goal?
-3. Which mistakes can we prevent through the design?
-4. What conditions must be met before an action is allowed?
-5. What needs to be checked and called out before moving on?
-6. Does it actually run and behave as intended?
-7. What improved, what got more complicated, and what did it cost?
-8. What should we record so we can check the result and pick up the work later?
+1. Do we need this?
+2. Can we change the design so this special case is no longer needed?
+3. Is this bearing weight, or is it just packaging?
