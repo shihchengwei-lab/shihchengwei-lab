@@ -18,7 +18,7 @@ The thing can exist and still need to be smaller, clearer, and better.
 |---|---|
 | [Masters’ Nudge](https://github.com/shihchengwei-lab/masters-nudge) | Short structural feedback while a coding agent works, with published comparisons of results and costs. |
 | [arc-9](https://github.com/shihchengwei-lab/arc-9) | One manually invoked engineering review skill for Codex, tracing causes and proposing concrete changes from task requirements and evidence. |
-| [Coding Agent Guardrails](https://github.com/shihchengwei-lab/coding-agent-guardrails) | Scope limits, trusted checks, and records of the final state for coding-agent work. |
+| [project-6s](https://github.com/shihchengwei-lab/project-6s) | A Codex skill for cleaning up outdated docs, duplicate artifacts, and stale tests. |
 
 ## Current Shape
 
