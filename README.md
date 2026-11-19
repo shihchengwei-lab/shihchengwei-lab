@@ -12,6 +12,10 @@ when working with coding agents.
 
 The thing can exist and still need to be smaller, clearer, and better.
 
+## Skills
+
+- Proficient in prompt engineering
+
 ## Start Here
 
 | Repo | What It Is For |
