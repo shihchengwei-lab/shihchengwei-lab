@@ -6,15 +6,15 @@ I am a vibe coder. I rely on AI for the programming.
 I set the goals, question its choices, and ask for evidence that the result
 does what I asked.
 
+## Skills
+
+- Proficient in prompt engineering
+
 I draw on basic ideas from industrial safety: designing hazards out,
 interlocks, and pointing and calling. They shape the questions I ask
 when working with coding agents.
 
 The thing can exist and still need to be smaller, clearer, and better.
-
-## Skills
-
-- Proficient in prompt engineering
 
 ## Start Here
 
