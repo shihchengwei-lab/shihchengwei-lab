@@ -10,12 +10,6 @@ does what I asked.
 
 - Proficient in prompt engineering
 
-I draw on basic ideas from industrial safety: designing hazards out,
-interlocks, and pointing and calling. They shape the questions I ask
-when working with coding agents.
-
-The thing can exist and still need to be smaller, clearer, and better.
-
 ## Start Here
 
 | Repo | What It Is For |
@@ -36,7 +30,13 @@ I keep coming back to what happens after the first working version:
 whether the structure makes sense, whether the extra complexity is necessary,
 and whether an improvement is worth what it costs.
 
+The thing can exist and still need to be smaller, clearer, and better.
+
 ## How I Work
+
+I draw on basic ideas from industrial safety: designing hazards out,
+interlocks, and pointing and calling. They shape the questions I ask
+when working with coding agents.
 
 The questions I keep coming back to:
 
