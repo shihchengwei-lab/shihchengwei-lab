@@ -10,6 +10,12 @@ does what I asked.
 
 - Proficient in prompt engineering
 
+## Achievements (With AI)
+
+- Received [“Good catch.”](https://github.com/apache/pulsar/pull/27666#issuecomment-7028249450) — Apache Pulsar #27666
+- Received [“Thanks, you're right, nothing prevents it”](https://github.com/apache/flink/pull/30022#issuecomment-7037952294) — Apache Flink #30022
+- Received [“Good catch, it was a real bug”](https://github.com/ClickHouse/ClickHouse/pull/133120#issuecomment-7056154288) — ClickHouse #133120
+
 ## Start Here
 
 | Repo | What It Is For |
@@ -24,10 +30,6 @@ into while working with coding agents.
 
 Sometimes I end up building a tool for the agent that was supposed to be
 building the game.
-
-I keep coming back to what happens after the first working version:
-whether the structure makes sense, whether the extra complexity is necessary,
-and whether an improvement is worth what it costs.
 
 The thing can exist and still need to be smaller, clearer, and better.
 
