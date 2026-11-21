@@ -2,9 +2,9 @@
 
 I make games with coding agents.
 
-I am a vibe coder. I rely on AI for the programming.
-I set the goals, question its choices, and ask for evidence that the result
-does what I asked.
+I’m a vibe coder. AI does the programming. I set the goals, question its choices, and ask for evidence that the result does what I asked.
+
+In open source, I share findings and questions from AI-assisted pull request reviews.
 
 ## Skills
 
@@ -12,9 +12,9 @@ does what I asked.
 
 ## Achievements (With AI)
 
-- Received [“Good catch.”](https://github.com/apache/pulsar/pull/27666#issuecomment-7028249450) — Apache Pulsar #27666
-- Received [“Thanks, you're right, nothing prevents it”](https://github.com/apache/flink/pull/30022#issuecomment-7037952294) — Apache Flink #30022
-- Received [“Good catch, it was a real bug”](https://github.com/ClickHouse/ClickHouse/pull/133120#issuecomment-7056154288) — ClickHouse #133120
+- Helped keep one delayed message on the schedule during cleanup. [Apache Pulsar #27666](https://github.com/apache/pulsar/pull/27666#issuecomment-7028249450)
+- Found one way to reuse an event ID by turning the clock back. [Apache Flink #30022](https://github.com/apache/flink/pull/30022#issuecomment-7037952294)
+- Helped a query return rows 5–9 instead of 0–4. [ClickHouse #133120](https://github.com/ClickHouse/ClickHouse/pull/133120#issuecomment-7056154288)
 
 ## Start Here
 
