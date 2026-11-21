@@ -12,9 +12,9 @@ In open source, I share findings and questions from AI-assisted pull request rev
 
 ## Achievements (With AI)
 
-- Helped keep one new message scheduled for delivery while old messages were being cleared. [Apache Pulsar #27666](https://github.com/apache/pulsar/pull/27666#issuecomment-7028249450)
-- Pointed out how two events could get the same number if the clock went backward after restoring from a saved state. [Apache Flink #30022](https://github.com/apache/flink/pull/30022#issuecomment-7037952294)
-- Helped a database search return the right five rows (5–9 instead of 0–4). [ClickHouse #133120](https://github.com/ClickHouse/ClickHouse/pull/133120#issuecomment-7056154288)
+- Helped keep one new message scheduled while old ones were cleared. [Apache Pulsar #27666](https://github.com/apache/pulsar/pull/27666#issuecomment-7028249450)
+- Flagged how two events could share a number if the clock went back after a restore. [Apache Flink #30022](https://github.com/apache/flink/pull/30022#issuecomment-7037952294)
+- Helped a database return the right rows (5–9) after a column was recreated. [ClickHouse #133120](https://github.com/ClickHouse/ClickHouse/pull/133120#issuecomment-7056154288)
 
 ## Start Here
 
