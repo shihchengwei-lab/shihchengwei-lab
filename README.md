@@ -14,7 +14,7 @@ In open source, I share findings and questions from AI-assisted pull request rev
 
 - Helped keep one new message scheduled while old ones were cleared. [Apache Pulsar #27666](https://github.com/apache/pulsar/pull/27666#issuecomment-7028249450)
 - Flagged how two events could share a number if the clock went back after a restore. [Apache Flink #30022](https://github.com/apache/flink/pull/30022#issuecomment-7037952294)
-- Helped a database return the right rows (5–9) after a column was recreated. [ClickHouse #133120](https://github.com/ClickHouse/ClickHouse/pull/133120#issuecomment-7056154288)
+- Found a case where a database put two rows in the wrong order. [Apache DataFusion #27597](https://github.com/apache/datafusion/pull/27597#issuecomment-7049002958)
 
 ## Start Here
 
