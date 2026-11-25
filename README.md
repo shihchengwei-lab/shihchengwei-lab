@@ -1,8 +1,7 @@
 # shihchengwei-lab
 
-I make games with coding agents.
-
-I’m a vibe coder. AI does the programming. I set the goals, question its choices, and ask for evidence that the result does what I asked.
+I make games and tools with coding agents.
+AI writes the code. I set the goals, question its choices, and ask for evidence that the result does what I asked.
 
 In open source, I share findings and questions from AI-assisted pull request reviews.
 
@@ -12,6 +11,7 @@ In open source, I share findings and questions from AI-assisted pull request rev
 
 ## Achievements (With AI)
 
+- Found how a job could get stuck in line with no one left to pick it up. [Dify #46310](https://github.com/langgenius/dify/pull/46310#issuecomment-6992254631)
 - Found a case where a database put two rows in the wrong order. [Apache DataFusion #27597](https://github.com/apache/datafusion/pull/27597#issuecomment-7049002958)
 - Found a save that went through but was reported as failed after a retry. [Apache Iceberg Go #2679](https://github.com/apache/iceberg-go/pull/2679#issuecomment-7136908103)
 - Found a query that ran directly but wouldn’t start from a saved plan. [Apache Flink #30080](https://github.com/apache/flink/pull/30080#issuecomment-7151901415)
